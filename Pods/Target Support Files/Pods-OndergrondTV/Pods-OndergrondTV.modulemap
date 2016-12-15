@@ -1,0 +1,6 @@
+framework module Pods_OndergrondTV {
+  umbrella header "Pods-OndergrondTV-umbrella.h"
+
+  export *
+  module * { export * }
+}
