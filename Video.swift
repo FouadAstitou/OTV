@@ -13,4 +13,5 @@ struct Video {
     var ID: String
     var title: String
     var thumbnail: String
+    
 }
